@@ -6,7 +6,7 @@ A project that attempts to create a better experience based on Google's Google A
 
     1.1. test your installation by executing `source ~/env/bin/activate` followed by `googlesamples-assistant-pushtotalk`
     
-2. clone this repo
+2. install dependencies `sudo apt install beep parallel`
 
 3. call `./google-assistant.sh`
 
