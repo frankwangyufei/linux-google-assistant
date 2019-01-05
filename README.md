@@ -8,11 +8,13 @@ A project that attempts to create a better experience based on Google's Google A
     
 2. install dependencies `sudo apt install beep parallel`
 
-3. call `./google-assistant.sh`
+3. install dependencies `sudo apt install sox libsox-fmt-mp3`
 
-4. (optional) run `./add-menuitem.sh`
+4. call `./google-assistant.sh`
 
-5. profit (?)
+5. (optional) run `./add-menuitem.sh`
+
+6. profit (?)
 
 # Disclaimer
 This project is not associated with Google at all (duh).
